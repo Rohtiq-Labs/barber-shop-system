@@ -118,7 +118,7 @@ Barber/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Rohtiq-Labs/barber-shop-system.git
+   git clone https://github.com/YOUR_USERNAME/barber-shop-system.git
    cd barber-shop-system
    ```
 
